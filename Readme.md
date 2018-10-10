@@ -16,4 +16,4 @@
 
 另一个由平面、三棱锥和折射球构成的简单例子：
 
-![test2](F:\Program Files (x86)\VCproject\RayTracing\RayTracing\test2.png)
+![test2](https://github.com/LunaElfGaming/RayTracing/raw/master/test2.png)
