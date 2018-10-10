@@ -1,0 +1,7 @@
+﻿  triangle.cpp
+f:\program files (x86)\vcproject\raytracing\raytracing\init.h(23): warning C4005: “INFINITY”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\math.h(89): note: 参见“INFINITY”的前一个定义
+f:\program files (x86)\vcproject\raytracing\raytracing\triangle.cpp(121): warning C4305: “=”: 从“double”到“float”截断
+f:\program files (x86)\vcproject\raytracing\raytracing\triangle.cpp(123): warning C4305: “参数”: 从“double”到“float”截断
+  RayTracing.vcxproj -> F:\Program Files (x86)\VCproject\RayTracing\x64\Debug\RayTracing.exe
+  RayTracing.vcxproj -> F:\Program Files (x86)\VCproject\RayTracing\x64\Debug\RayTracing.pdb (Partial PDB)
