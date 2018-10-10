@@ -2,7 +2,7 @@
 
 最终实现效果图：
 
-![test](F:\Program Files (x86)\VCproject\RayTracing\RayTracing\model4\test.png)
+![test](https://github.com/LunaElfGaming/RayTracing/raw/master/test.png)
 
 模型导出为.obj文件格式，文件夹中test.obj为模型文件，test.mtl是对应的贴图文件，包含不同面片的颜色、高光、反射信息。
 
