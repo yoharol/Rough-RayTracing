@@ -1,4 +1,8 @@
-## ReadMe
+## Rough Ray Tracing
+
+纯粹基于三角面和球体的简易实现，仅opencv用于生成图片，加入了高斯滤波和中值滤波
+
+实现结果简单粗暴，故名为Rough Ray Tracing
 
 最终实现效果图：
 
